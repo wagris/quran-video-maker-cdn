@@ -1,26 +1,26 @@
 [
   {
     "id": "1",
-    "title": "Surah Al-Fatihah",
-    "reciter": "Mishary Alafasy",
-    "duration_seconds": 40,
-    "audio_url": "https://YOUR_USERNAME.github.io/quran-video-maker-cdn/audios/al-fatihah.mp3",
-    "json_url": "https://YOUR_USERNAME.github.io/quran-video-maker-cdn/transcriptions/al-fatihah.json"
+    "title": "An-Najm",
+    "reciter": "Jaber",
+    "duration_seconds": 138,
+    "audio_url": "https://wagris.github.io/quran-video-maker-cdn/audios/audio_1.mp3",
+    "json_url": "https://wagris.github.io/quran-video-maker-cdn/transcriptions/audio_1.json"
   },
   {
     "id": "2",
-    "title": "Ayat Al-Kursi",
-    "reciter": "Abdul Rahman Al-Sudais",
-    "duration_seconds": 85,
-    "audio_url": "https://YOUR_USERNAME.github.io/quran-video-maker-cdn/audios/kursi.mp3",
-    "json_url": "https://YOUR_USERNAME.github.io/quran-video-maker-cdn/transcriptions/kursi.json"
+    "title": "Al-Hijr",
+    "reciter": "Jaber",
+    "duration_seconds": 83,
+    "audio_url": "https://wagris.github.io/quran-video-maker-cdn/audios/audio_2.mp3",
+    "json_url": "https://wagris.github.io/quran-video-maker-cdn/transcriptions/audio_2.json"
   },
   {
     "id": "3",
-    "title": "Surah Yasin (Example)",
-    "reciter": "Omar Hisham Al Arabi",
-    "duration_seconds": 125,
-    "audio_url": "https://YOUR_USERNAME.github.io/quran-video-maker-cdn/audios/surah_36.mp3",
-    "json_url": "https://YOUR_USERNAME.github.io/quran-video-maker-cdn/transcriptions/surah_36.json"
+    "title": "An-Naml",
+    "reciter": "Jaber",
+    "duration_seconds": 160,
+    "audio_url": "https://wagris.github.io/quran-video-maker-cdn/audios/audio_3.mp3",
+    "json_url": "https://wagris.github.io/quran-video-maker-cdn/transcriptions/audio_3.json"
   }
 ]
