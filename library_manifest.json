@@ -22,5 +22,13 @@
     "duration_seconds": 160,
     "audio_url": "https://wagris.github.io/quran-video-maker-cdn/audios/audio_3.mp3",
     "json_url": "https://wagris.github.io/quran-video-maker-cdn/transcriptions/audio_3.json"
+  },
+  {
+    "id": "4",
+    "title": "An-Najm",
+    "reciter": "Jaber",
+    "duration_seconds": 138,
+    "audio_url": "https://wagris.github.io/quran-video-maker-cdn/audios/audio_10.mp3",
+    "json_url": "https://wagris.github.io/quran-video-maker-cdn/transcriptions/audio_10.json"
   }
 ]
